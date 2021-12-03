@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #80280d;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -27,6 +27,15 @@
 .App-link {
   color: #61dafb;
 }
+
+.MuiGrid-item{
+  padding: 10px;
+}
+
+body{
+  background-color: #80280d;
+}
+
 
 @keyframes App-logo-spin {
   from {
